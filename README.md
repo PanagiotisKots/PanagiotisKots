@@ -20,11 +20,14 @@ Let's connect and create something impactful together!
 
 
 How to reach me <📫>:
+
 email: pkotsorgios654@gmail.com
 
 
 Competitions - Achievements🥇: 
+
 leetcode: https://leetcode.com/Panagiotis_Kotsorgios/
 
 Languages🎓:
+
 C,C++,Python,Java;
