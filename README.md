@@ -28,7 +28,7 @@ Competitions - Achievements🥇:
 
 leetcode: https://leetcode.com/Panagiotis_Kotsorgios/
 
-Hackerank: https://www.hackerrank.com/profile/
+Hackerank: https://www.hackerrank.com/profile/pkotsorgios654
 
 Languages🎓:
 
