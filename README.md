@@ -1,12 +1,3 @@
-
-<div align = "center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-
-
-
-
 👋 Hi there! I'm Panagiotis, a junior backend software engineer with a strong foundation in C-like languages, 
 Python, and Java. My expertise lies in building efficient and scalable software solutions for various domains.
 
@@ -28,7 +19,7 @@ Consistently participating in LeetCode contests and exploring community discussi
 Let's connect and create something impactful together!
 
 
-How to reach me <📫>:
+How to reach me 📫:
 
 email: pkotsorgios654@gmail.com
 
