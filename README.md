@@ -56,7 +56,8 @@ Languages tools and frameworks🎓: //add bold and h1 in html herre
 
 Languages:
 
-<img src="https://github.com/PanagiotisKots/Personal/raw/main/c.svg" alt="C" width="70" height="70">    <img src="https://github.com/PanagiotisKots/Personal/raw/main/cpp.svg" alt="C++" width="70" height="70">    <img src="https://github.com/PanagiotisKots/Personal/raw/main/python.svg" alt="Python" width="75" height="75">    <img src="https://github.com/PanagiotisKots/Personal/raw/main/java.svg" alt="Java" width="80" height="80">     <img src="https://github.com/PanagiotisKots/Personal/blob/main/mysql-logo-svgrepo-com.svg" alt="C" width="70" height="70">
+<img src="https://github.com/PanagiotisKots/Personal/raw/main/c.svg" alt="C" width="70" height="70">    <img src="https://github.com/PanagiotisKots/Personal/raw/main/cpp.svg" alt="C++" width="70" height="70">    <img src="https://github.com/PanagiotisKots/Personal/raw/main/python.svg" alt="Python" width="75" height="75">    <img src="https://github.com/PanagiotisKots/Personal/raw/main/java.svg" alt="Java" width="80" height="80">     <img src="https://github.com/PanagiotisKots/Personal/blob/main/mysql-logo-svgrepo-com.svg" alt="C" width="70" height="70">    <img src="https://github.com/PanagiotisKots/Personal/blob/main/html.svg" alt="C" width="70" height="70">    <img src="https://github.com/PanagiotisKots/Personal/blob/main/css.svg" alt="C" width="70" height="70">      <img src="https://github.com/PanagiotisKots/Personal/blob/main/javascript-1.svg" alt="C" width="70" height="70">      <img src="https://github.com/PanagiotisKots/Personal/blob/main/Pascal%20(PASC).svg" alt="C" width="70" height="70">     <img src="https://github.com/PanagiotisKots/Personal/blob/main/arduino.svg" alt="C" width="70" height="70">   
+
 
 
 
