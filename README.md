@@ -38,10 +38,17 @@ Problem Solving 💡:
   <img src="https://github.com/PanagiotisKots/Personal/blob/main/leet.svg" alt="LeetCode" width="50" height="50">
 </a>
 
+<a href="https://www.hackerrank.com/profile/pkotsorgios654">
+  <img src="https://github.com/PanagiotisKots/Personal/blob/main/hackerrank.svg" alt="HackerRank" width="50" height="50">
+</a>
 
-Hackerank: https://www.hackerrank.com/profile/pkotsorgios654
 
-CodeWars: https://www.codewars.com/users/Panagiotis_Kotsorgios
+<a href="https://www.codewars.com/users/Panagiotis_Kotsorgios">
+  <img src="https://github.com/PanagiotisKots/Personal/blob/main/codewars-svgrepo-com.svg" alt="CodeWars" width="50" height="50">
+</a>
+
+
+
 
 Languages🎓:
 
