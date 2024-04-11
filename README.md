@@ -56,7 +56,7 @@ Languages tools and frameworks🎓: //add bold and h1 in html herre
 
 Languages:
 
-<img src="https://github.com/PanagiotisKots/Personal/raw/main/c.svg" alt="C" width="50" height="50"> <img src="https://github.com/PanagiotisKots/Personal/raw/main/cpp.svg" alt="C++" width="50" height="50"> <img src="https://github.com/PanagiotisKots/Personal/raw/main/python.svg" alt="Python" width="90" height="90"> <img src="https://github.com/PanagiotisKots/Personal/raw/main/java.svg" alt="Java" width="70" height="70">
+<img src="https://github.com/PanagiotisKots/Personal/raw/main/c.svg" alt="C" width="50" height="50"> <img src="https://github.com/PanagiotisKots/Personal/raw/main/cpp.svg" alt="C++" width="50" height="50"> <img src="https://github.com/PanagiotisKots/Personal/raw/main/python.svg" alt="Python" width="70" height="70"> <img src="https://github.com/PanagiotisKots/Personal/raw/main/java.svg" alt="Java" width="70" height="70">
 
 
 
