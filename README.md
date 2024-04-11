@@ -23,6 +23,10 @@ How to reach me <📫>:
 
 email: pkotsorgios654@gmail.com
 
+Social Media:
+
+//gonna add 
+
 
 Competitions - Achievements🥇: 
 
@@ -35,3 +39,9 @@ CodeWars: https://www.codewars.com/users/Panagiotis_Kotsorgios
 Languages🎓:
 
 C,C++,Python,Java;
+
+
+
+
+
+
