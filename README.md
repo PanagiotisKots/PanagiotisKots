@@ -151,7 +151,7 @@ update coming soon
 
   
 
-![](https://komarev.com/ghpvc/?username=PanagiotisKots&style=flat-square)
+![](https://komarev.com/ghpvc/?username=PanagiotisKots&color=red&style=for-the-badge)
 
 
 
