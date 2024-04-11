@@ -21,7 +21,7 @@ Let's connect and create something impactful together!
 
 How to reach me 📫:
 
-email: pkotsorgios654@gmail.com
+[![reachme](https://www.google.com/intl/el/gmail/about/) pkotsorgios654@gmail.com
 
 Social Media:
 
