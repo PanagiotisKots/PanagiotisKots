@@ -72,7 +72,7 @@ C,C++,Python,Java;
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PanagiotisKots)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PanagiotisKots&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
