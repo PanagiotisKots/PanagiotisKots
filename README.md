@@ -151,7 +151,7 @@ update coming soon
 
   
 
-![](https://komarev.com/ghpvc/?username=PanagiotisKots&color=green)
+![](https://komarev.com/ghpvc/?username=PanagiotisKots&style=flat-square)
 
 
 
