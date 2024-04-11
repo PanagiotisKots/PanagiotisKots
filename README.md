@@ -55,8 +55,8 @@ Languages🎓:
 
 ![C](https://github.com/PanagiotisKots/Personal/blob/main/c.svg)
 ![Cpp](https://github.com/PanagiotisKots/Personal/blob/main/cpp.svg)
-,Python,Java;
-
+![Python](https://github.com/PanagiotisKots/Personal/blob/main/python.svg)
+![Java](https://github.com/PanagiotisKots/Personal/blob/main/java.svg)
 
 
 <div>
