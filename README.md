@@ -156,9 +156,6 @@ update coming soon
 
 
 
-[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/372372861/badge.svg)]
-
-
 
 
 
