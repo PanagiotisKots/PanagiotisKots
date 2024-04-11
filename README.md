@@ -21,7 +21,8 @@ Let's connect and create something impactful together!
 
 How to reach me 📫:
 
-[example@gmail.com](mailto:pkotsorgios654@gmail.com)
+[![Gmail]([https://example.com/path/to/gmail/icon.svg](https://github.com/PanagiotisKots/Personal/blob/main/mail.svg))](mailto:pkotsorgios654@gmail.com)
+
 
 Social Media:
 
