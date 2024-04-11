@@ -25,14 +25,14 @@ E-mail: pkotsorgios654@gmail.com
 
 
 
-Social Media:
+Social Media 📡:
 
-[![Instagram](https://github.com/PanagiotisKots/Personal/blob/main/insta.svg)](https://www.instagram.com/panagiotis_ko_?igsh=MwpzeW96Y25jbXBkNA==)
+[![Instagram](https://github.com/PanagiotisKots/Personal/blob/main/insta.svg)](https://www.instagram.com/panagiotis_ko_?igsh=MwpzeW96Y25jbXBkNA==)  //ADD YTBE, etc...
 
 
-Competitions - Achievements🥇: 
+Problem Solving 💡: 
 
-leetcode: https://leetcode.com/Panagiotis_Kotsorgios/
+[![LeetCode](https://github.com/PanagiotisKots/Personal/blob/main/leet.svg)](https://leetcode.com/Panagiotis_Kotsorgios/)
 
 Hackerank: https://www.hackerrank.com/profile/pkotsorgios654
 
