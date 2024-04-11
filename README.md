@@ -54,7 +54,8 @@ Problem Solving 💡:
 Languages🎓:
 
 ![C](https://github.com/PanagiotisKots/Personal/blob/main/c.svg)
-,C++,Python,Java;
+![Cpp](https://github.com/PanagiotisKots/Personal/blob/main/cpp.svg)
+,Python,Java;
 
 
 
