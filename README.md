@@ -47,12 +47,14 @@ Problem Solving 💡:
   <img src="https://github.com/PanagiotisKots/Personal/blob/main/codewars-svgrepo-com.svg" alt="CodeWars" width="50" height="50">
 </a>
 
+//gonna add more
 
 
 
 Languages🎓:
 
-C,C++,Python,Java;
+![C](https://github.com/PanagiotisKots/Personal/blob/main/c.svg)
+,C++,Python,Java;
 
 
 
