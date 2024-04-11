@@ -21,12 +21,13 @@ Let's connect and create something impactful together!
 
 How to reach me 📫:
 
-[![Gmail]([https://example.com/path/to/gmail/icon.svg](https://github.com/PanagiotisKots/Personal/blob/main/mail.svg))](mailto:pkotsorgios654@gmail.com)
+E-mail: pkotsorgios654@gmail.com
+
 
 
 Social Media:
 
-//gonna add 
+[![Instagram](https://github.com/PanagiotisKots/Personal/blob/main/insta.svg)](https://www.instagram.com/panagiotis_ko_?igsh=MwpzeW96Y25jbXBkNA==)
 
 
 Competitions - Achievements🥇: 
