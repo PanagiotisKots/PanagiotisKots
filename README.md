@@ -51,12 +51,38 @@ Problem Solving 💡:
 
 
 
-Languages🎓:
+Languages tools and frameworks🎓: //add bold and h1 in html herre
 
-![C](https://github.com/PanagiotisKots/Personal/blob/main/c.svg)
-![Cpp](https://github.com/PanagiotisKots/Personal/blob/main/cpp.svg)
-![Python](https://github.com/PanagiotisKots/Personal/blob/main/python.svg)
-![Java](https://github.com/PanagiotisKots/Personal/blob/main/java.svg)
+
+Languages:
+
+<img src="https://github.com/PanagiotisKots/Personal/raw/main/c.svg" alt="C" width="50" height="50">
+<img src="https://github.com/PanagiotisKots/Personal/raw/main/cpp.svg" alt="C++" width="50" height="50">
+<img src="https://github.com/PanagiotisKots/Personal/raw/main/python.svg" alt="Python" width="50" height="50">
+<img src="https://github.com/PanagiotisKots/Personal/raw/main/java.svg" alt="Java" width="50" height="50">
+
+
+
+Tools:
+
+
+
+Frameworks:
+
+
+
+
+Enviroments:
+
+
+
+
+OS:
+
+
+Competitions and Championships: 🥇
+
+
 
 
 <div>
