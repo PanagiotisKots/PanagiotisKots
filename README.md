@@ -67,24 +67,10 @@ Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
 
 
-<a href="https://leetcode.com/Panagiotis_Kotsorgios/">
-  <img src="https://github.com/PanagiotisKots/Personal/blob/main/leet.svg" alt="LeetCode" width="50" height="50">
-</a>
-
-<a href="https://www.hackerrank.com/profile/pkotsorgios654">
-  <img src="https://github.com/PanagiotisKots/Personal/blob/main/hackerrank.svg" alt="HackerRank" width="50" height="50">
-</a>
-
-
-<a href="https://www.codewars.com/users/Panagiotis_Kotsorgios">
-  <img src="https://github.com/PanagiotisKots/Personal/blob/main/codewars-svgrepo-com.svg" alt="CodeWars" width="50" height="50">
-</a>
-
-
-
-<a href="https://www.codechef.com/users/pkotsorgios654">
-  <img src="https://github.com/PanagiotisKots/Personal/blob/main/codechef.svg" alt="Codechef" width="50" height="50">
-</a>
+<a href="https://leetcode.com/Panagiotis_Kotsorgios/"><img src="https://github.com/PanagiotisKots/Personal/blob/main/leet.svg" alt="LeetCode" width="50" height="50"></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/pkotsorgios654"><img src="https://github.com/PanagiotisKots/Personal/blob/main/hackerrank.svg" alt="HackerRank" width="50" height="50"></a>&nbsp;&nbsp;
+<a href="https://www.codewars.com/users/Panagiotis_Kotsorgios"><img src="https://github.com/PanagiotisKots/Personal/blob/main/codewars-svgrepo-com.svg" alt="CodeWars" width="50" height="50"></a>&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/pkotsorgios654"><img src="https://github.com/PanagiotisKots/Personal/blob/main/codechef.svg" alt="Codechef" width="50" height="50"></a>
 
 
 
