@@ -1,5 +1,5 @@
 
-<h2>About Me:</h2>
+<h3>About Me:</h3>
 
 👋 Hi there! I'm Panagiotis, a junior backend software engineer with a strong foundation in C-like languages, 
 Python, and Java. My expertise lies in building efficient and scalable software solutions for various domains.
@@ -22,18 +22,18 @@ Consistently participating in LeetCode contests and exploring community discussi
 Let's connect and create something impactful together!
 
 
-<h2>How to reach me 📫:</h2>
+<h3>How to reach me 📫:</h3>
 
 E-mail: pkotsorgios654@gmail.com
 
 
 
-<h2>Social Media 📡:</h2>
+<h3>Social Media 📡:</h3>
 
 [![Instagram](https://github.com/PanagiotisKots/Personal/blob/main/insta.svg)](https://www.instagram.com/panagiotis_ko_?igsh=MwpzeW96Y25jbXBkNA==)  //ADD YTBE, etc...
 
 
-<h2>Problem Solving 💡:</h2>
+<h3>Problem Solving 💡:</h3>
 
 
 
@@ -54,27 +54,24 @@ E-mail: pkotsorgios654@gmail.com
 
 
 
-<h1>Languages tools and frameworks🎓: //add bold and h1 in html herre</h1>
+<h2>Languages tools and frameworks🎓: //add bold and h1 in html herre</h2>
 
 
-<h2>Languages:</h2>
+<h3>Languages:</h3>
 
 <img src="https://github.com/PanagiotisKots/Personal/raw/main/c.svg" alt="C" width="70" height="70">    <img src="https://github.com/PanagiotisKots/Personal/raw/main/cpp.svg" alt="C++" width="70" height="70">    <img src="https://github.com/PanagiotisKots/Personal/raw/main/python.svg" alt="Python" width="75" height="75">    <img src="https://github.com/PanagiotisKots/Personal/raw/main/java.svg" alt="Java" width="80" height="80">     <img src="https://github.com/PanagiotisKots/Personal/blob/main/mysql-logo-svgrepo-com.svg" alt="C" width="70" height="70">    <img src="https://github.com/PanagiotisKots/Personal/blob/main/html.svg" alt="C" width="70" height="70">    <img src="https://github.com/PanagiotisKots/Personal/blob/main/css.svg" alt="C" width="70" height="70">      <img src="https://github.com/PanagiotisKots/Personal/blob/main/javascript-1.svg" alt="C" width="70" height="70">      <img src="https://github.com/PanagiotisKots/Personal/blob/main/Pascal%20(PASC).svg" alt="C" width="70" height="70">     <img src="https://github.com/PanagiotisKots/Personal/blob/main/arduino.svg" alt="C" width="70" height="70">   //add tmrow
 
 
 
 
-<h1>Tools</h1>
+<h3>Tools</h3>
 
-
-<h2>IDEs:</h2>
 
 Visual Studio/ Code
 IntelliJ IDEA
 Eclipse
 Dev c/c++
 
-<h2>Version Control:</h2>
 Git
 
 data analysys 
@@ -85,7 +82,7 @@ Postgres
 
 
 
-<h2>Enviroments,testing,frameworks and others:</h2>
+<h3>Enviroments,testing,frameworks and others:</h3>
 
 Django
 Flask
@@ -109,7 +106,7 @@ AngularJS
 
 
 
-<h2>OS:</h2>
+<h3>OS:</h3>
 Kali linux
 ubuntu
 unix
@@ -118,7 +115,7 @@ linux
 windows
 
 
-<h2>Competitions and Championships: 🥇</h2>
+<h3>Competitions and Championships: 🥇</h3>
 
 update coming soon
 
