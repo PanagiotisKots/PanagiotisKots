@@ -25,11 +25,11 @@ Consistently participating in LeetCode contests and exploring community discussi
 Let's connect and create something impactful together!
 
 ---
----
 
 
 
-<h3>How to reach me 📫:</h3>
+
+### How to reach me 📫:
 
 
 
