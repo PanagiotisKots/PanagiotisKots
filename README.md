@@ -124,7 +124,6 @@ Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 ### data analysys 
 
 
-<br>
 
 <img src="https://github.com/PanagiotisKots/Personal/blob/main/node.svg" width="100" height="100">&nbsp;
 <img src="https://github.com/PanagiotisKots/Personal/blob/main/mysql-logo-svgrepo-com.svg" width="100" height="100">&nbsp;
