@@ -48,8 +48,7 @@ E-mail: pkotsorgios654@gmail.com
 
 
 
-[![Instagram](https://github.com/PanagiotisKots/Personal/blob/main/insta.svg)](https://www.instagram.com/panagiotis_ko_?igsh=MwpzeW96Y25jbXBkNA==)   [![Youtube](https://github.com/PanagiotisKots/Personal/blob/main/youtube-svgrepo-com.svg)](https://www.youtube.com/channel/UCI1xEf0nqYKSUW0RldEkw9Q)
-
+[![Instagram](https://github.com/PanagiotisKots/Personal/blob/main/insta.svg)](https://www.instagram.com/panagiotis_ko_?igsh=MwpzeW96Y25jbXBkNA==)   [<img src="https://github.com/PanagiotisKots/Personal/blob/main/youtube-svgrepo-com.svg" width="50" height="50">](https://www.youtube.com/channel/UCI1xEf0nqYKSUW0RldEkw9Q)
 
 
 ---
