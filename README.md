@@ -215,19 +215,17 @@ update coming soon
 
 <br>
 <br>
-<br>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisKots&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-<br>
-<br>
+
 
 ![Alt text](https://github.com/PanagiotisKots/Personal/blob/main/snake.svg)
 
 <br>
-<br>
-<br>
+
 
 ![](https://komarev.com/ghpvc/?username=PanagiotisKots&color=red&style=for-the-badge)
 
