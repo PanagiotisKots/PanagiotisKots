@@ -13,7 +13,7 @@ actively exploring techniques to enhance system security and mitigate vulnerabil
 🚀 Outside of coding, I enjoy delving into the latest advancements in technology, staying updated on cybersecurity trends,
 and participating in Capture The Flag (CTF) competitions to sharpen my skills.
 
-(!)I also maintain an active presence on LeetCode, where I continuously hone my problem-solving skills and algorithmic proficiency.
+⚠️I also maintain an active presence on LeetCode, where I continuously hone my problem-solving skills and algorithmic proficiency.
 With a solid grasp of data structures and algorithms, I tackle a wide range of coding challenges, from fundamental problems to advanced algorithmic puzzles. 
 Leveraging languages such as Python, C++, and Java, I strive to optimize solutions for efficiency and scalability. 
 Consistently participating in LeetCode contests and exploring community discussions, I remain committed to refining my coding skills and staying abreast of industry best practices. 
@@ -22,18 +22,18 @@ Consistently participating in LeetCode contests and exploring community discussi
 Let's connect and create something impactful together!
 
 
-How to reach me 📫:
+<h2>How to reach me 📫:</h2>
 
 E-mail: pkotsorgios654@gmail.com
 
 
 
-Social Media 📡:
+<h2>Social Media 📡:</h2>
 
 [![Instagram](https://github.com/PanagiotisKots/Personal/blob/main/insta.svg)](https://www.instagram.com/panagiotis_ko_?igsh=MwpzeW96Y25jbXBkNA==)  //ADD YTBE, etc...
 
 
-Problem Solving 💡: 
+<h2>Problem Solving 💡:</h2>
 
 
 
@@ -54,25 +54,27 @@ Problem Solving 💡:
 
 
 
-Languages tools and frameworks🎓: //add bold and h1 in html herre
+<h1>Languages tools and frameworks🎓: //add bold and h1 in html herre</h1>
 
 
-Languages:
+<h2>Languages:</h2>
 
 <img src="https://github.com/PanagiotisKots/Personal/raw/main/c.svg" alt="C" width="70" height="70">    <img src="https://github.com/PanagiotisKots/Personal/raw/main/cpp.svg" alt="C++" width="70" height="70">    <img src="https://github.com/PanagiotisKots/Personal/raw/main/python.svg" alt="Python" width="75" height="75">    <img src="https://github.com/PanagiotisKots/Personal/raw/main/java.svg" alt="Java" width="80" height="80">     <img src="https://github.com/PanagiotisKots/Personal/blob/main/mysql-logo-svgrepo-com.svg" alt="C" width="70" height="70">    <img src="https://github.com/PanagiotisKots/Personal/blob/main/html.svg" alt="C" width="70" height="70">    <img src="https://github.com/PanagiotisKots/Personal/blob/main/css.svg" alt="C" width="70" height="70">      <img src="https://github.com/PanagiotisKots/Personal/blob/main/javascript-1.svg" alt="C" width="70" height="70">      <img src="https://github.com/PanagiotisKots/Personal/blob/main/Pascal%20(PASC).svg" alt="C" width="70" height="70">     <img src="https://github.com/PanagiotisKots/Personal/blob/main/arduino.svg" alt="C" width="70" height="70">   //add tmrow
 
 
 
 
-Tools + data analysis:
-IDEs:
+<h1>Tools</h1>
+
+
+<h2>IDEs:</h2>
 
 Visual Studio/ Code
 IntelliJ IDEA
 Eclipse
 Dev c/c++
 
-Version Control:
+<h2>Version Control:</h2>
 Git
 
 data analysys 
@@ -83,7 +85,7 @@ Postgres
 
 
 
-Enviroments,testing,frameworks and others:
+<h2>Enviroments,testing,frameworks and others:</h2>
 
 Django
 Flask
@@ -107,7 +109,7 @@ AngularJS
 
 
 
-OS:
+<h2>OS:</h2>
 Kali linux
 ubuntu
 unix
@@ -116,7 +118,7 @@ linux
 windows
 
 
-Competitions and Championships: 🥇
+<h2>Competitions and Championships: 🥇</h2>
 
 update coming soon
 
