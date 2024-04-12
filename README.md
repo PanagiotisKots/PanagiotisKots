@@ -118,26 +118,17 @@ E-mail: pkotsorgios654@gmail.com
 
 
 
-<h3>Enviroments,testing,frameworks and others:</h3>
+<h3>Technologies, Tools and Frameworks:</h3>
 
-Django
-Flask
-PyTorch
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/boost.png" width="100" height="100">   
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/django.jpg" width="100" height="100">   
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/flask.png" width="100" height="100">   
 
-STL 
-Boost
-openssl
-OpenCV
-Qt
-
-
-Spring Framework
-JUnit
-Apache Maven
-
-
-React.js
-AngularJS
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/opencv.webp" width="100" height="100">   
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/openssl.png" width="100" height="100">   
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/pytorch.png" width="100" height="100">   
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/qt.png" width="100" height="100">   
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/virtualbox.jpg" width="100" height="100">   
 
 
 
