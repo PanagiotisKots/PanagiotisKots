@@ -1,3 +1,6 @@
+
+About Me:
+
 👋 Hi there! I'm Panagiotis, a junior backend software engineer with a strong foundation in C-like languages, 
 Python, and Java. My expertise lies in building efficient and scalable software solutions for various domains.
 
