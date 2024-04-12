@@ -105,7 +105,10 @@ Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
 <h3>Tools</h3>
 
-<img src="https://github.com/PanagiotisKots/Personal/blob/main/vscode.svg" width="100" height="100">     <img src="https://github.com/PanagiotisKots/Personal/blob/main/intelli.svg" width="100" height="100">     <img src="https://github.com/PanagiotisKots/Personal/blob/main/dev.webp" width="100" height="100">     <img src="https://github.com/PanagiotisKots/Personal/blob/main/git.png" width="100" height="100">
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/vscode.svg" width="100" height="100">&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/intelli.svg" width="100" height="100">&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/dev.webp" width="100" height="100">&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/git.png" width="100" height="100">
 
 
 ---
