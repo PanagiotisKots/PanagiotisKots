@@ -30,10 +30,9 @@ Let's connect and create something impactful together!
 ---
 
 
-<br>
 
 ### How to reach me 📫:
-
+<br>
 
 
 
@@ -43,13 +42,13 @@ Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
 ---
 
-<br>
 
 
 
 
 ### Social Media 📡:
 
+<br>
 
 
 
@@ -61,12 +60,13 @@ Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
 
 
-<br>
+
 
 
 <h3>Problem Solving 💡:</h3>
 
 
+<br>
 
 
 <a href="https://leetcode.com/Panagiotis_Kotsorgios/"><img src="https://github.com/PanagiotisKots/Personal/blob/main/leet.svg" alt="LeetCode" width="50" height="50"></a>&nbsp;&nbsp;
@@ -77,11 +77,12 @@ Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
 
 ---
-<br>
+
 
 <h2>Languages tools and frameworks🎓:</h2>
 
 
+<br>
 
 
 
