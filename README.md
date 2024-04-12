@@ -31,8 +31,6 @@ Let's connect and create something impactful together!
 
 
 <br>
-<br>
-<br>
 
 ### How to reach me 📫:
 
@@ -45,8 +43,6 @@ Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
 ---
 
-<br>
-<br>
 <br>
 
 
@@ -66,8 +62,6 @@ Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
 
 <br>
-<br>
-<br>
 
 
 <h3>Problem Solving 💡:</h3>
@@ -84,8 +78,7 @@ Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
 ---
 <br>
-<br>
-<br>
+
 <h2>Languages tools and frameworks🎓:</h2>
 
 
