@@ -135,7 +135,7 @@ Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
 
 
-<h3>Technologies, Tools and Frameworks:</h3>
+<h3>Tools and Frameworks:</h3>
 
 <img src="https://github.com/PanagiotisKots/Personal/blob/main/boost.png" width="100" height="100">&nbsp;
 <img src="https://github.com/PanagiotisKots/Personal/blob/main/django.jpg" width="100" height="100">&nbsp;
