@@ -38,10 +38,13 @@ Let's connect and create something impactful together!
 
 
 E-mail: pkotsorgios654@gmail.com
+
 Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
 
----
+
+
+
 
 
 
