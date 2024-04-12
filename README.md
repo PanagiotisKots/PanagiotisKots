@@ -1,4 +1,10 @@
-<h3 style="margin-bottom: 50px">About Me:</h3>
+<style>
+/* CSS styles go here */
+h3 {
+    margin-bottom: 20px;
+}
+</style>
+<h3>>About Me:</h3>
 
 
 
