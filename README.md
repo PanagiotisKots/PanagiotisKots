@@ -48,7 +48,7 @@ Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
 
 
-<h3>Social Media 📡:</h3>
+### Social Media 📡:
 
 
 
