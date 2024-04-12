@@ -81,6 +81,9 @@ Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
 
 
+
+
+
 <h3>Languages:</h3>
 
 <img src="https://github.com/PanagiotisKots/Personal/raw/main/c.svg" alt="C" width="70" height="70">&nbsp;
