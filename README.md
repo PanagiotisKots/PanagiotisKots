@@ -24,7 +24,7 @@ Consistently participating in LeetCode contests and exploring community discussi
 🌟 I'm passionate about collaborating on projects that push the boundaries of innovation and contribute positively to the tech community.
 Let's connect and create something impactful together!
 
-
+---
 
 
 
@@ -33,7 +33,7 @@ Let's connect and create something impactful together!
 E-mail: pkotsorgios654@gmail.com
 
 
-
+---
 
 
 
@@ -42,7 +42,7 @@ E-mail: pkotsorgios654@gmail.com
 [![Instagram](https://github.com/PanagiotisKots/Personal/blob/main/insta.svg)](https://www.instagram.com/panagiotis_ko_?igsh=MwpzeW96Y25jbXBkNA==)  //ADD YTBE, etc...
 
 
-
+---
 
 
 
@@ -66,7 +66,7 @@ E-mail: pkotsorgios654@gmail.com
 
 //gonna add more
 
-
+---
 
 <h2>Languages tools and frameworks🎓: //add bold and h1 in html herre</h2>
 
