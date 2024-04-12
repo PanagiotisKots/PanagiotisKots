@@ -120,7 +120,10 @@ Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
 
 
-<img src="https://github.com/PanagiotisKots/Personal/blob/main/node.svg" width="100" height="100">     <img src="https://github.com/PanagiotisKots/Personal/blob/main/mysql-logo-svgrepo-com.svg" width="100" height="100">     <img src="https://github.com/PanagiotisKots/Personal/blob/main/sqllite.svg" width="100" height="100">          <img src="https://github.com/PanagiotisKots/Personal/blob/main/postgres.png" width="100" height="100"> 
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/node.svg" width="100" height="100">&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/mysql-logo-svgrepo-com.svg" width="100" height="100">&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/sqllite.svg" width="100" height="100">&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/postgres.png" width="100" height="100">
 
 
 ---
@@ -129,7 +132,14 @@ Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
 <h3>Technologies, Tools and Frameworks:</h3>
 
-<img src="https://github.com/PanagiotisKots/Personal/blob/main/boost.png" width="100" height="100">      <img src="https://github.com/PanagiotisKots/Personal/blob/main/django.jpg" width="100" height="100">      <img src="https://github.com/PanagiotisKots/Personal/blob/main/flask.png" width="100" height="100">      <img src="https://github.com/PanagiotisKots/Personal/blob/main/opencv.webp" width="100" height="100">       <img src="https://github.com/PanagiotisKots/Personal/blob/main/openssl.png" width="100" height="100">       <img src="https://github.com/PanagiotisKots/Personal/blob/main/pytorch.png" width="100" height="100">        <img src="https://github.com/PanagiotisKots/Personal/blob/main/qt.png" width="100" height="100">       <img src="https://github.com/PanagiotisKots/Personal/blob/main/virtualbox.jpg" width="100" height="100">   
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/boost.png" width="100" height="100">&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/django.jpg" width="100" height="100">&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/flask.png" width="100" height="100">&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/opencv.webp" width="100" height="100">&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/openssl.png" width="100" height="100">&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/pytorch.png" width="100" height="100">&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/qt.png" width="100" height="100">&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/virtualbox.jpg" width="100" height="100">
 
 
 
