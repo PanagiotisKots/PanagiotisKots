@@ -24,6 +24,7 @@ Consistently participating in LeetCode contests and exploring community discussi
 🌟 I'm passionate about collaborating on projects that push the boundaries of innovation and contribute positively to the tech community.
 Let's connect and create something impactful together!
 
+
 ---
 
 
@@ -35,6 +36,7 @@ Let's connect and create something impactful together!
 
 
 E-mail: pkotsorgios654@gmail.com
+
 
 
 ---
@@ -106,7 +108,7 @@ SQLite
 Postgres
 
 
-
+---
 
 
 
@@ -133,7 +135,7 @@ AngularJS
 
 
 
-
+---
 
 
 
@@ -147,7 +149,7 @@ windows
 
 
 
-
+---
 
 
 
@@ -156,6 +158,8 @@ windows
 
 update coming soon
 
+
+---
 
 
 
