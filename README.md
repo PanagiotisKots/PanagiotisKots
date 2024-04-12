@@ -30,7 +30,9 @@ Let's connect and create something impactful together!
 ---
 
 
-
+<br>
+<br>
+<br>
 
 ### How to reach me 📫:
 
@@ -42,6 +44,10 @@ E-mail: pkotsorgios654@gmail.com
 Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
 ---
+
+<br>
+<br>
+<br>
 
 
 
@@ -59,7 +65,9 @@ Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
 
 
-
+<br>
+<br>
+<br>
 
 
 <h3>Problem Solving 💡:</h3>
@@ -75,7 +83,9 @@ Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
 
 ---
-
+<br>
+<br>
+<br>
 <h2>Languages tools and frameworks🎓:</h2>
 
 
@@ -203,11 +213,27 @@ update coming soon
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PanagiotisKots&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<br>
+<br>
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanagiotisKots&show_icons=true&theme=radical)
+
+<br>
+<br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisKots&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+<br>
+<br>
+
 ![Alt text](https://github.com/PanagiotisKots/Personal/blob/main/snake.svg)
+
+<br>
+<br>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=PanagiotisKots&color=red&style=for-the-badge)
 
