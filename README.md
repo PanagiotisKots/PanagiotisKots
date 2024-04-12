@@ -129,12 +129,12 @@ E-mail: pkotsorgios654@gmail.com
 
 
 <h3>OS:</h3>
-Kali linux
-ubuntu
-unix
-arch
-linux
-windows
+
+
+
+
+ <img src="https://github.com/PanagiotisKots/Personal/blob/main/arch.svg" width="100" height="100">       <img src="https://github.com/PanagiotisKots/Personal/blob/main/kali.svg" width="100" height="100">        <img src="https://github.com/PanagiotisKots/Personal/blob/main/ubuntu.svg" width="100" height="100">        <img src="https://github.com/PanagiotisKots/Personal/blob/main/linux.svg" width="100" height="100">        <img src="https://github.com/PanagiotisKots/Personal/blob/main/windows.svg" width="100" height="100">   
+
 
 
 
