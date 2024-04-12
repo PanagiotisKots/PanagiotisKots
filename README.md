@@ -102,12 +102,16 @@ E-mail: pkotsorgios654@gmail.com
 <img src="https://github.com/PanagiotisKots/Personal/blob/main/vscode.svg" width="100" height="100">     <img src="https://github.com/PanagiotisKots/Personal/blob/main/intelli.svg" width="100" height="100">     <img src="https://github.com/PanagiotisKots/Personal/blob/main/dev.webp" width="100" height="100">     <img src="https://github.com/PanagiotisKots/Personal/blob/main/git.png" width="100" height="100">
 
 
+---
+
+
 
 ### data analysys 
-nodejs
-MySQL
-SQLite
-Postgres
+
+
+
+
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/node.svg" width="100" height="100">     <img src="https://github.com/PanagiotisKots/Personal/blob/main/mysql-logo-svgrepo-com.svg" width="100" height="100">     <img src="https://github.com/PanagiotisKots/Personal/blob/main/sqllite.svg" width="100" height="100">          <img src="https://github.com/PanagiotisKots/Personal/blob/main/postgres.png" width="100" height="100"> 
 
 
 ---
