@@ -1,7 +1,7 @@
 
 ### About Me:
 
-----
+
 
 
 👋 Hi there! I'm Panagiotis, a junior backend software engineer with a strong foundation in C-like languages, 
@@ -24,6 +24,7 @@ Consistently participating in LeetCode contests and exploring community discussi
 🌟 I'm passionate about collaborating on projects that push the boundaries of innovation and contribute positively to the tech community.
 Let's connect and create something impactful together!
 
+---
 ---
 
 
