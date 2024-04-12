@@ -1,5 +1,5 @@
 <style>
-h3 {
+.h3 {
     margin-bottom: 20px;
   margin-top: 20px;
 }
