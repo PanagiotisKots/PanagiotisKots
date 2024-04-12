@@ -30,6 +30,9 @@ Let's connect and create something impactful together!
 
 <h3>How to reach me 📫:</h3>
 
+
+
+
 E-mail: pkotsorgios654@gmail.com
 
 
@@ -38,6 +41,9 @@ E-mail: pkotsorgios654@gmail.com
 
 
 <h3>Social Media 📡:</h3>
+
+
+
 
 [![Instagram](https://github.com/PanagiotisKots/Personal/blob/main/insta.svg)](https://www.instagram.com/panagiotis_ko_?igsh=MwpzeW96Y25jbXBkNA==)  //ADD YTBE, etc...
 
