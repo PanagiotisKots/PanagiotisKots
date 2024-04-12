@@ -48,7 +48,7 @@ E-mail: pkotsorgios654@gmail.com
 
 
 
-[![Instagram](https://github.com/PanagiotisKots/Personal/blob/main/insta.svg)](https://www.instagram.com/panagiotis_ko_?igsh=MwpzeW96Y25jbXBkNA==)   [<img src="https://github.com/PanagiotisKots/Personal/blob/main/youtube-svgrepo-com.svg" width="50" height="50">](https://www.youtube.com/channel/UCI1xEf0nqYKSUW0RldEkw9Q)
+[![Instagram](https://github.com/PanagiotisKots/Personal/blob/main/insta.svg)](https://www.instagram.com/panagiotis_ko_?igsh=MwpzeW96Y25jbXBkNA==)   [<img src="https://github.com/PanagiotisKots/Personal/blob/main/youtube-svgrepo-com.svg" width="50" height="50">](https://www.youtube.com/channel/UCI1xEf0nqYKSUW0RldEkw9Q)  //lnkdin
 
 
 ---
@@ -73,7 +73,13 @@ E-mail: pkotsorgios654@gmail.com
   <img src="https://github.com/PanagiotisKots/Personal/blob/main/codewars-svgrepo-com.svg" alt="CodeWars" width="50" height="50">
 </a>
 
-//gonna add more
+
+
+<a href="https://www.codechef.com/users/pkotsorgios654">
+  <img src="https://github.com/PanagiotisKots/Personal/blob/main/codechef.svg" alt="Codechef" width="50" height="50">
+</a>
+
+
 
 ---
 
