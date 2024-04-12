@@ -17,9 +17,11 @@ actively exploring techniques to enhance system security and mitigate vulnerabil
 and participating in Capture The Flag (CTF) competitions to sharpen my skills.
 
 ⚠️I also maintain an active presence on LeetCode, where I continuously hone my problem-solving skills and algorithmic proficiency.
-With a solid grasp of data structures and algorithms, I tackle a wide range of coding challenges, from fundamental problems to advanced algorithmic puzzles. 
+With a solid grasp of data structures and algorithms, I tackle a wide range of coding challenges, from fundamental
+problems to advanced algorithmic puzzles. 
 Leveraging languages such as Python, C++, and Java, I strive to optimize solutions for efficiency and scalability. 
-Consistently participating in LeetCode contests and exploring community discussions, I remain committed to refining my coding skills and staying abreast of industry best practices. 
+Consistently participating in LeetCode contests and exploring community discussions, I remain committed to refining my coding skills and 
+staying abreast of industry best practices. 
 
 🌟 I'm passionate about collaborating on projects that push the boundaries of innovation and contribute positively to the tech community.
 Let's connect and create something impactful together!
@@ -36,7 +38,7 @@ Let's connect and create something impactful together!
 
 
 E-mail: pkotsorgios654@gmail.com
-
+Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
 
 ---
