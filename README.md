@@ -60,6 +60,9 @@ Portfolio: .......
 <a href="https://www.facebook.com/profile.php?id=100094265552497"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/512px-Facebook_f_logo_%282021%29.svg.png?20210818083032" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/invite/mMe6jUZz"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/23873128/panagiotis-kots?tab=profile"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/panosk750807"><img src="https://icons8.com/icon/437/twitter" width="50" height="50"></a>
+
+
 ---
 
 
