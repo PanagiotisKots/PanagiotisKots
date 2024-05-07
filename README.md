@@ -123,7 +123,7 @@ Portfolio: .......
 <img src="https://github.com/PanagiotisKots/Personal/blob/main/intelli.svg" width="100" height="100">&nbsp;
 <img src="https://github.com/PanagiotisKots/Personal/blob/main/dev.webp" width="100" height="100">&nbsp;
 <img src="https://github.com/PanagiotisKots/Personal/blob/main/git.png" width="100" height="100">&nbsp;
-<img src="https://github.com/PanagiotisKots/Personal/blob/main/git.png" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png" width="100" height="100">
 
 
 
