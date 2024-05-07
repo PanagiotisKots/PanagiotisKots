@@ -61,7 +61,7 @@ Portfolio: .......
 <a href="https://discord.com/invite/mMe6jUZz"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/23873128/panagiotis-kots?tab=profile"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/panosk750807"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<h1>PanagiotisKots #1944069 hach the box</h1>
+
 
 
 ---
@@ -81,7 +81,7 @@ Portfolio: .......
 <a href="https://www.hackerrank.com/profile/pkotsorgios654"><img src="https://github.com/PanagiotisKots/Personal/blob/main/hackerrank.svg" alt="HackerRank" width="50" height="50"></a>&nbsp;&nbsp;
 <a href="https://www.codewars.com/users/Panagiotis_Kotsorgios"><img src="https://github.com/PanagiotisKots/Personal/blob/main/codewars-svgrepo-com.svg" alt="CodeWars" width="50" height="50"></a>&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/pkotsorgios654"><img src="https://github.com/PanagiotisKots/Personal/blob/main/codechef.svg" alt="Codechef" width="50" height="50"></a>
-
+<h1>PanagiotisKots #1944069 hach the box</h1>
 
 
 ---
