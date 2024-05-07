@@ -40,6 +40,8 @@ E-mail: pkotsorgios654@gmail.com
 
 Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
+Portfolio: .......
+
 ---
 
 
@@ -54,7 +56,8 @@ Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
 <a href="https://www.instagram.com/panagiotis_ko_?igsh=MwpzeW96Y25jbXBkNA=="><img src="https://github.com/PanagiotisKots/Personal/blob/main/insta.svg" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCI1xEf0nqYKSUW0RldEkw9Q"><img src="https://github.com/PanagiotisKots/Personal/blob/main/youtube-svgrepo-com.svg" width="60" height="55"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/"><img src="https://github.com/PanagiotisKots/Personal/blob/main/linkedin.svg" width="50" height="50"></a>
+<a href="https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/"><img src="https://github.com/PanagiotisKots/Personal/blob/main/linkedin.svg" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100094265552497"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/512px-Facebook_f_logo_%282021%29.svg.png?20210818083032" width="50" height="50"></a>
 
 ---
 
