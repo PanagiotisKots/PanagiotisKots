@@ -220,11 +220,11 @@ update coming soon !!!!!!!!!!!!
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PanagiotisKots&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <br>
-<br>
+<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanagiotisKots&show_icons=true&theme=radical)
 
-<br>
+<br><br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisKots&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
