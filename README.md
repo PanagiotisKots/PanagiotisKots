@@ -184,8 +184,8 @@ Portfolio: coming soon!!!!!!!
 
 
 <h3>Competitions and Championships: 🥇</h3>
-<br>
-update coming soon
+<br><br><br><br><br><br><br><br><br><br>
+update coming soon !!!!!!!!!!!!
 
 
 ---
