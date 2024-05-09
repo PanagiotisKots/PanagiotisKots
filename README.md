@@ -40,7 +40,7 @@ E-mail: pkotsorgios654@gmail.com
 
 Linkedin: https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/
 
-Portfolio: .......
+Portfolio: coming soon!!!!!!!
 
 ---
 
