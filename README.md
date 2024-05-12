@@ -155,8 +155,7 @@ Portfolio: coming soon!!!!!!!
 <img src="https://github.com/PanagiotisKots/Personal/blob/main/openssl.png" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/PanagiotisKots/Personal/blob/main/pytorch.png" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/PanagiotisKots/Personal/blob/main/qt.png" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/PanagiotisKots/Personal/blob/main/virtualbox.jpg" width="100" height="100">
-
+<!--start deletring them from personal repo and start posting from online urls-->
 
 
 ---
