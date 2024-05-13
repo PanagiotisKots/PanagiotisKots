@@ -148,13 +148,13 @@ Portfolio: coming soon!!!!!!!
 
 <h3>Tools and Frameworks:</h3>
 
-<img src="https://github.com/PanagiotisKots/Personal/blob/main/boost.png" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/PanagiotisKots/Personal/blob/main/django.jpg" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/PanagiotisKots/Personal/blob/main/flask.png" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/PanagiotisKots/Personal/blob/main/opencv.webp" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/PanagiotisKots/Personal/blob/main/openssl.png" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/PanagiotisKots/Personal/blob/main/pytorch.png" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/PanagiotisKots/Personal/blob/main/qt.png" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/boost.png" width="100" height="100">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/django.jpg" width="100" height="100">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/flask.png" width="100" height="100">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/opencv.webp" width="100" height="100">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/openssl.png" width="100" height="100">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/pytorch.png" width="100" height="100">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/qt.png" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;
 <!--start deletring them from personal repo and start posting from online urls-->
 
 
@@ -167,10 +167,10 @@ Portfolio: coming soon!!!!!!!
 
 <br>
 
-&nbsp;<img src="https://github.com/PanagiotisKots/Personal/blob/main/arch.svg" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/PanagiotisKots/Personal/blob/main/kali.svg" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/PanagiotisKots/Personal/blob/main/ubuntu.svg" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/PanagiotisKots/Personal/blob/main/linux.svg" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;<img src="https://github.com/PanagiotisKots/Personal/blob/main/arch.svg" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/kali.svg" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/ubuntu.svg" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/linux.svg" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/PanagiotisKots/Personal/blob/main/windows.svg" width="100" height="100">
 
 
