@@ -105,7 +105,7 @@ Portfolio: coming soon!!!!!!!
 <img src="https://github.com/PanagiotisKots/Personal/raw/main/python.svg" alt="Python" width="80" height="80">&nbsp;
 <img src="https://github.com/PanagiotisKots/Personal/raw/main/java.svg" alt="Java" width="80" height="80">&nbsp;
 <img src="https://github.com/PanagiotisKots/Personal/blob/main/mysql-logo-svgrepo-com.svg" alt="MySQL" width="80" height="80">&nbsp;
-<img src="https://github.com/PanagiotisKots/Personal/blob/main/html.svg" alt="HTML" width="80" height="80">&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML" width="80" height="80">&nbsp;
 <img src="https://github.com/PanagiotisKots/Personal/blob/main/css.svg" alt="CSS" width="80" height="80">&nbsp;
 <img src="https://github.com/PanagiotisKots/Personal/blob/main/javascript-1.svg" alt="JavaScript" width="80" height="80">&nbsp;
 <img src="https://github.com/PanagiotisKots/Personal/blob/main/Pascal%20(PASC).svg" alt="Pascal (PASC)" width="80" height="80">&nbsp;
