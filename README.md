@@ -100,16 +100,16 @@ Portfolio: coming soon!!!!!!!
 <h3>Languages:</h3>
 <br>
 
-<img src="https://github.com/PanagiotisKots/Personal/raw/main/c.svg" alt="C" width="80" height="80">
-<img src="https://github.com/PanagiotisKots/Personal/raw/main/cpp.svg" alt="C++" width="80" height="80">
-<img src="https://github.com/PanagiotisKots/Personal/raw/main/python.svg" alt="Python" width="80" height="80">
+<img src="https://github.com/PanagiotisKots/Personal/raw/main/c.svg" alt="C" width="80" height="80">&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/raw/main/cpp.svg" alt="C++" width="80" height="80">&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/raw/main/python.svg" alt="Python" width="80" height="80">&nbsp;
 <img src="https://github.com/PanagiotisKots/Personal/raw/main/java.svg" alt="Java" width="80" height="80">&nbsp;
-<img src="https://github.com/PanagiotisKots/Personal/blob/main/mysql-logo-svgrepo-com.svg" alt="MySQL" width="80" height="80">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML" width="80" height="80">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="CSS" width="80" height="80">
-<img src="https://github.com/PanagiotisKots/Personal/blob/main/javascript-1.svg" alt="JavaScript" width="80" height="80">
-<img src="https://github.com/PanagiotisKots/Personal/blob/main/Pascal%20(PASC).svg" alt="Pascal (PASC)" width="80" height="80">
-<img src="https://github.com/PanagiotisKots/Personal/blob/main/arduino.svg" alt="Arduino" width="80" height="80">
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/mysql-logo-svgrepo-com.svg" alt="MySQL" width="80" height="80">&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML" width="80" height="80">&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="CSS" width="80" height="80">&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/javascript-1.svg" alt="JavaScript" width="80" height="80">&nbsp;
+<img src="https://github.com/PanagiotisKots/Personal/blob/main/Pascal%20(PASC).svg" alt="Pascal (PASC)" width="80" height="80">&nbsp;
+
 
 
 
