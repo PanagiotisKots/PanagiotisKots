@@ -78,9 +78,9 @@ Portfolio: coming soon!!!!!!!
 <br>
 
 
-<a href="https://leetcode.com/Panagiotis_Kotsorgios/"><img src="https://github.com/PanagiotisKots/Personal/blob/main/leet.svg" alt="LeetCode" width="70" height="70"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/pkotsorgios654"><img src="https://github.com/PanagiotisKots/Personal/blob/main/hackerrank.svg" alt="HackerRank" width="70" height="70"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.codewars.com/users/Panagiotis_Kotsorgios"><img src="https://github.com/PanagiotisKots/Personal/blob/main/codewars-svgrepo-com.svg" alt="CodeWars" width="70" height="70"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/Panagiotis_Kotsorgios/"><img src="https://github.com/PanagiotisKots/Personal/blob/main/leet.svg" alt="LeetCode" width="70" height="70"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/pkotsorgios654"><img src="https://github.com/PanagiotisKots/Personal/blob/main/hackerrank.svg" alt="HackerRank" width="70" height="70"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.codewars.com/users/Panagiotis_Kotsorgios"><img src="https://github.com/PanagiotisKots/Personal/blob/main/codewars-svgrepo-com.svg" alt="CodeWars" width="70" height="70"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/pkotsorgios654"><img src="https://github.com/PanagiotisKots/Personal/blob/main/codechef.svg" alt="Codechef" width="70" height="70"></a>
 <h1>PanagiotisKots #1944069 hach the box</h1>
 
