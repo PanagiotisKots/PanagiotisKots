@@ -157,7 +157,7 @@ update coming soon !!!!!!!!!!!!
 
 
 
-![Alt text](https://github.com/PanagiotisKots/Personal/blob/main/snake.svg)
+![Alt text](https://github.com/PanagiotisKots/Encryption-and-Decryption/blob/main/snake.svg)
 
 
 
