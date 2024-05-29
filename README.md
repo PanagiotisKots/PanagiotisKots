@@ -61,7 +61,7 @@ Portfolio: coming soon!!!!!!!
 <a href="https://discord.com/invite/mMe6jUZz"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="70" height="70"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/23873128/panagiotis-kots?tab=profile"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png" width="70" height="70"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/panosk750807"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" width="70" height="70"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.reddit.com/user/PanagiotisKotsorgios/"><img src="https://en.wikipedia.org/wiki/Reddit#/media/File:Reddit_Logo_Icon.svg" width="70" height="70"></a>
+<a href="https://www.reddit.com/user/PanagiotisKotsorgios/"><img src="https://upload.wikimedia.org/wikipedia/en/b/bd/Reddit_Logo_Icon.svg" width="70" height="70"></a>
 
 
 
