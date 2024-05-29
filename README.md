@@ -55,7 +55,7 @@ Portfolio: coming soon!!!!!!!
 
 
 <a href="https://www.instagram.com/panagiotis_ko_?igsh=MwpzeW96Y25jbXBkNA=="><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="70" height="70"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCI1xEf0nqYKSUW0RldEkw9Q"><img src="https://github.com/PanagiotisKots/Personal/blob/main/youtube-svgrepo-com.svg" width="70" height="70"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCI1xEf0nqYKSUW0RldEkw9Q"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="70" height="70"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="70" height="70"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100094265552497"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/512px-Facebook_f_logo_%282021%29.svg.png?20210818083032" width="70" height="70"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/invite/mMe6jUZz"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="70" height="70"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
