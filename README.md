@@ -89,7 +89,7 @@ Portfolio: coming soon!!!!!!!
 
 
 
-<h3>OS:</h3>
+<h3>OS 🌐:</h3>
 
 
 <br>
