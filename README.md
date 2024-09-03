@@ -1,3 +1,5 @@
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&lines=Welcome+to+my+Github+Profile+Page!" alt="Typing SVG" /></a> </p>
+
 # 💫 About Me:
 👋 Hi there! I'm Panagiotis, a junior backend software engineer with a strong foundation in C-like languages <br>and Python. My expertise lies in building efficient and scalable software solutions for various domains.<br><br>💻 As a dedicated Linux user and enthusiast, I'm well-versed in system administration,<br>shell scripting, and optimizing workflows for productivity.<br><br>🔒 I have a keen interest in cybersecurity and ethical hacking, <br>actively exploring techniques to enhance system security and mitigate vulnerabilities.<br><br>🚀 Outside of coding, I enjoy delving into the latest advancements in technology, staying updated on cybersecurity trends,<br>and participating in Capture The Flag (CTF) competitions to sharpen my skills.<br><br>⚠️I also maintain an active presence on LeetCode and HackerRank, where I continuously hone my problem-solving skills and algorithmic proficiency.<br>With a solid grasp of data structures and algorithms, I tackle a wide range of coding challenges, from fundamental<br>problems to advanced algorithmic puzzles. <br>Leveraging languages such as C, C++, and others, I strive to optimize solutions for efficiency and scalability. <br>Consistently participating in LeetCode contests and exploring community discussions, I remain committed to refining my coding skills and <br>staying abreast of industry best practices. <br><br>🌟 I'm passionate about collaborating on projects that push the boundaries of innovation and contribute positively to the tech community.<br>Let's connect and create something impactful together!
 
@@ -138,7 +140,7 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Akascape!&descAlign=50&descSize=30&animation=twinkling">
 </p>
 
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&lines=Welcome+to+my+Github+Profile+Page!" alt="Typing SVG" /></a> </p>
+
 
 <h2 align="center">⚡ STATS ⚡</h2>
 
