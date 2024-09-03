@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&lines=Welcome+to+my+Github+Profile+Page!" alt="Typing SVG" /></a> </p>
 
 <!-- HTML with inline CSS for resizing and border-radius -->
-<img src="ttt.jpg" width = "400px" height = "400px" >
+<img src="ttt.jpg" width = "900px" height = "400px" >
    
 
 
