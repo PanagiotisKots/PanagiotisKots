@@ -205,9 +205,10 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 
 <div align="center">
   <a href="https://github-readme-tech-stack.vercel.app">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=LANGUAGES&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=2&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=lua%2Clua%2Cauto%3Bpython%2Cpython%2Cauto%3BC%2CC/CPP%2Cauto%3B&line2=OpenGL%2COpenGL%2Cffffff%3Bhtml%2Chtml%2Cauto%3B" alt="GitHub Readme Tech Stack" />
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=LANGUAGES&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=3&theme=ayu&width=600&bg=%25230B0E14&titleColor=%231c9eff&line1=lua%2Clua%2Cauto%3Bpython%2Cpython%2Cauto%3Bc%2Cc%2Cauto%3Bcpp%2Ccpp%2Cauto%3B&line2=java%2Cjava%2Cauto%3Bgo%2Cgo%2Cauto%3Bhtml%2Chtml%2Cauto%3Bcss%2Ccss%2Cauto%3B&line3=sql%2Csql%2Cauto%3Brust%2Crust%2Cauto%3Btypescript%2Ctypescript%2Cauto%3B" alt="GitHub Readme Tech Stack" />
   </a>
 </div>
+
 
 <br> <h2 align="center"> 🌐 MY SOCIALS 🌐 </h2>
 <br> <p align="center">
