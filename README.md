@@ -1,7 +1,6 @@
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=455&lines=Welcome+to+my+Github+Profile+Page!" alt="Typing SVG" /></a> </p>
 
-<!-- HTML with inline CSS for resizing and border-radius -->
-<img src="ttt.jpg" width = "900px" height = "350px" >
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
    
 
 
