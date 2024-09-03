@@ -126,4 +126,6 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 ![Banner Radius](https://raw.githubusercontent.com/KountourisPanagiotis/KountourisPanagiotis/main/banner-radius.png)
 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
