@@ -59,9 +59,14 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PanagiotisKots&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PanagiotisKots&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisKots&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PanagiotisKots&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PanagiotisKots&theme=dark&hide_border=false)<br/>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisKots&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PanagiotisKots&theme=radical&no-frame=false&no-bg=true&margin-w=4)
