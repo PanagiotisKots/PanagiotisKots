@@ -67,7 +67,7 @@
 
 
 
-
+<br><br><br><br>
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -79,19 +79,25 @@
 </div>
 
 
+<br><br><br><br>
+
 
 ## 🏆 GitHub Trophies
  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=PanagiotisKots&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
+
+<br><br><br><br>
+
+
 ### ✍️ Random Dev Quote
  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
-
+<br><br><br><br>
 
 ### 🔝 Top Contributed Repositories
 <img src="https://github-contributor-stats.vercel.app/api?username=PanagiotisKots&limit=5&theme=cobalt&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);"/>
 
-
+<br><br><br><br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PanagiotisKots&icon=5&color=1)](https://visitcount.itsvg.in)
@@ -109,7 +115,7 @@ If you find my work helpful, consider supporting me:
 
 
 
-
+<br><br><br><br>
 
 ## 🏆 Achievements & Certifications
 
@@ -127,7 +133,7 @@ If you find my work helpful, consider supporting me:
 ![Certificate](https://img.shields.io/badge/Certificate-%231D8CFF.svg?style=for-the-badge&logo=certificate&logoColor=white)
 
 
-
+<br><br><br><br>
 
   
 # Make your Move ♟️
@@ -216,6 +222,11 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 ---
 
 
+<br><br><br><br>
+
+
+
+
 ## 🛡️ Hacking & Penetration Testing Skills
 
 [![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-000000?style=for-the-badge&logo=security&logoColor=white)](https://www.owasp.org/)
@@ -230,14 +241,14 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 ![Animated GIF](https://media.giphy.com/media/DBfYJqH5AokgM/giphy.gif)
 
 
-
+<br><br><br><br>
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,java,c,cpp,python,go,php,rust,ts,nodejs,react,vue,sass,bootstrap,sql)](https://skillicons.dev)
 
 
 
-
+<br><br><br><br>
 
 
 <div align="center">
@@ -245,6 +256,10 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
     <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=LANGUAGES&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=3&theme=ayu&width=600&bg=%25230B0E14&titleColor=%231c9eff&line1=lua%2Clua%2Cauto%3Bpython%2Cpython%2Cauto%3Bc%2Cc%2Cauto%3Bcpp%2Ccpp%2Cauto%3B&line2=java%2Cjava%2Cauto%3Bgo%2Cgo%2Cauto%3Bhtml%2Chtml%2Cauto%3Bcss%2Ccss%2Cauto%3B&line3=sql%2Csql%2Cauto%3Brust%2Crust%2Cauto%3Btypescript%2Ctypescript%2Cauto%3B" alt="GitHub Readme Tech Stack" />
   </a>
 </div>
+
+
+<br><br><br><br>
+
 
 
 <br> <h2 align="center"> 🌐 MY SOCIALS 🌐 </h2>
