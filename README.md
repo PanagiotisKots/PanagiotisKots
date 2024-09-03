@@ -129,3 +129,7 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
+
+![Repository Statistics](https://github-proxy-8.betteryourself.net/apk/cards/repos-per-languages?username=kountourispanagiotis&themes=2037)
+
+
