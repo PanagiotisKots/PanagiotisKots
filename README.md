@@ -9,8 +9,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=i.profession+%3D+%22a+backend+software+engineer%22;)](https://git.io/typing-svg)
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=i.origin+%3D+%22from+Greece%22;)](https://git.io/typing-svg)
-
-
+<br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=++i.usedTo+%3D+%22I+used+to%3A+Practice+penetration+testing%2C+and+ethical+hacking%2C+enjoying+the+open+source+Linux+community%22;)](https://git.io/typing-svg)
+<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=++i.loves+%3D+%22I+love%3A+problem+solving%2C+CTF+contests%2C+coding+challenges%2C+exploring+new+technologies%22;)](https://git.io/typing-svg)
+<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=++++i.worksWith+%3D+%22I+work+with%3A+C%2C+C%2B%2B%2C+Java%2C+Python%2C+Assembly%2C+Linux%2C+Kali%2C+Ubuntu%2C+Windows%2C+kernel+programming%2C+SQL%2C+web+development%22;)](https://git.io/typing-svg)
+<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=++++i.aspiresTo+%3D+%22I+aspire+to%3A+become+a+top+cybersecurity+expert+one+day%22;)](https://git.io/typing-svg)
 
 # 💫 About Me:
 👋 Hi there! I'm Panagiotis, a junior backend software engineer with a strong foundation in C-like languages <br>and Python. My expertise lies in building efficient and scalable software solutions for various domains.<br><br>💻 As a dedicated Linux user and enthusiast, I'm well-versed in system administration,<br>shell scripting, and optimizing workflows for productivity.<br><br>🔒 I have a keen interest in cybersecurity and ethical hacking, <br>actively exploring techniques to enhance system security and mitigate vulnerabilities.<br><br>🚀 Outside of coding, I enjoy delving into the latest advancements in technology, staying updated on cybersecurity trends,<br>and participating in Capture The Flag (CTF) competitions to sharpen my skills.<br><br>⚠️I also maintain an active presence on LeetCode and HackerRank, where I continuously hone my problem-solving skills and algorithmic proficiency.<br>With a solid grasp of data structures and algorithms, I tackle a wide range of coding challenges, from fundamental<br>problems to advanced algorithmic puzzles. <br>Leveraging languages such as C, C++, and others, I strive to optimize solutions for efficiency and scalability. <br>Consistently participating in LeetCode contests and exploring community discussions, I remain committed to refining my coding skills and <br>staying abreast of industry best practices. <br><br>🌟 I'm passionate about collaborating on projects that push the boundaries of innovation and contribute positively to the tech community.<br>Let's connect and create something impactful together!
