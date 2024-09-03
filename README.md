@@ -48,6 +48,12 @@
 ![Socket.IO](https://img.shields.io/badge/socket.io-%2343853D.svg?style=for-the-badge&logo=socket.io&logoColor=white) 
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-%23007ACC.svg?style=for-the-badge&logo=cisco&logoColor=white) 
 ![Network Security](https://img.shields.io/badge/network%20security-%23000000.svg?style=for-the-badge&logo=security&logoColor=white)
+![Verilog](https://img.shields.io/badge/verilog-%23A2001D.svg?style=for-the-badge&logo=verilog&logoColor=white) 
+![VHDL](https://img.shields.io/badge/vhdl-%23285AEB.svg?style=for-the-badge&logo=vhdl&logoColor=white) 
+![Embedded C](https://img.shields.io/badge/embedded%20c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Kernel Programming](https://img.shields.io/badge/kernel%20programming-%23A8B9CC.svg?style=for-the-badge&logo=linux&logoColor=black) 
+![FPGA](https://img.shields.io/badge/fpga-%23000000.svg?style=for-the-badge&logo=fpga&logoColor=white)
+
 
 
 
