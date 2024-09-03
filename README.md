@@ -110,52 +110,18 @@ If you find my work helpful, consider supporting me:
 
 ## 🏆 Achievements & Certifications
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; border: 2px solid #1d8cff; padding: 20px; border-radius: 10px;">
-  <div style="flex: 1; min-width: 250px; border: 1px solid #d1d5db; padding: 15px; border-radius: 10px;">
-    <h3>Capture The Flag (CTF) Wins</h3>
-    <ul>
-      <li>
-        <img src="https://github.com/YourUsername/YourRepo/raw/main/assets/achievements/ctf-victory.png" alt="CTF Victory" style="width: 100%; border-radius: 8px;">
-      </li>
-    </ul>
-  </div>
-
-  <div style="flex: 1; min-width: 250px; border: 1px solid #d1d5db; padding: 15px; border-radius: 10px;">
-    <h3>Cybersecurity Medal</h3>
-    <ul>
-      <li>
-        <img src="https://github.com/YourUsername/YourRepo/raw/main/assets/achievements/cybersecurity-medal.png" alt="Cybersecurity Medal" style="width: 100%; border-radius: 8px;">
-      </li>
-    </ul>
-  </div>
-
-  <div style="flex: 1; min-width: 250px; border: 1px solid #d1d5db; padding: 15px; border-radius: 10px;">
-    <h3>Championship Title</h3>
-    <ul>
-      <li>
-        <img src="https://github.com/YourUsername/YourRepo/raw/main/assets/achievements/championship.png" alt="Championship" style="width: 100%; border-radius: 8px;">
-      </li>
-    </ul>
-  </div>
-
-  <div style="flex: 1; min-width: 250px; border: 1px solid #d1d5db; padding: 15px; border-radius: 10px;">
-    <h3>Certification</h3>
-    <ul>
-      <li>
-        <img src="https://github.com/YourUsername/YourRepo/raw/main/assets/achievements/certificate.png" alt="Certificate" style="width: 100%; border-radius: 8px;">
-      </li>
-    </ul>
-  </div>
-</div>
+| **Capture The Flag (CTF) Wins** | **Cybersecurity Medal** | **Championship Title** | **Certification** |
+|:--------------------------------:|:-----------------------:|:----------------------:|:-----------------:|
+| ![CTF Victory](https://github.com/YourUsername/YourRepo/raw/main/assets/achievements/ctf-victory.png) | ![Cybersecurity Medal](https://github.com/YourUsername/YourRepo/raw/main/assets/achievements/cybersecurity-medal.png) | ![Championship](https://github.com/YourUsername/YourRepo/raw/main/assets/achievements/championship.png) | ![Certificate](https://github.com/YourUsername/YourRepo/raw/main/assets/achievements/certificate.png) |
+| - **Title**: CTF Competition XYZ <br> **Date**: 2023 <br> **Details**: Description of the CTF event | - **Title**: Cybersecurity Conference Medal <br> **Date**: 2022 <br> **Details**: Description of the medal award | - **Title**: National Championship <br> **Date**: 2021 <br> **Details**: Description of the championship | - **Title**: Certified Security Professional <br> **Date**: 2020 <br> **Details**: Description of the certification |
+| - **Title**: CTF Competition ABC <br> **Date**: 2022 <br> **Details**: Description of the CTF event | - **Title**: Cybersecurity Training Award <br> **Date**: 2021 <br> **Details**: Description of the award | - **Title**: Regional Championship <br> **Date**: 2020 <br> **Details**: Description of the championship | - **Title**: Advanced Penetration Testing <br> **Date**: 2019 <br> **Details**: Description of the certification |
 
 ### Badges
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 20px;">
-  <img src="https://img.shields.io/badge/CTF%20Champion-%234C9F2F.svg?style=for-the-badge&logo=award&logoColor=white" alt="CTF Champion">
-  <img src="https://img.shields.io/badge/Cybersecurity%20Medal-%231DA1F2.svg?style=for-the-badge&logo=medal&logoColor=white" alt="Cybersecurity Medal">
-  <img src="https://img.shields.io/badge/Championship-%23F39C12.svg?style=for-the-badge&logo=trophy&logoColor=white" alt="Championship">
-  <img src="https://img.shields.io/badge/Certificate-%231D8CFF.svg?style=for-the-badge&logo=certificate&logoColor=white" alt="Certificate">
-</div>
+![CTF Champion](https://img.shields.io/badge/CTF%20Champion-%234C9F2F.svg?style=for-the-badge&logo=award&logoColor=white)
+![Cybersecurity Medal](https://img.shields.io/badge/Cybersecurity%20Medal-%231DA1F2.svg?style=for-the-badge&logo=medal&logoColor=white)
+![Championship](https://img.shields.io/badge/Championship-%23F39C12.svg?style=for-the-badge&logo=trophy&logoColor=white)
+![Certificate](https://img.shields.io/badge/Certificate-%231D8CFF.svg?style=for-the-badge&logo=certificate&logoColor=white)
 
 
 
