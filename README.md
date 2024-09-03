@@ -43,6 +43,12 @@
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) 
 ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white) 
 ![Fedora](https://img.shields.io/badge/fedora-%233367FF.svg?style=for-the-badge&logo=fedora&logoColor=white)
+![Assembly](https://img.shields.io/badge/assembly-%23D3D3D3.svg?style=for-the-badge&logo=assembly&logoColor=black) 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
+![Socket.IO](https://img.shields.io/badge/socket.io-%2343853D.svg?style=for-the-badge&logo=socket.io&logoColor=white) 
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-%23007ACC.svg?style=for-the-badge&logo=cisco&logoColor=white) 
+![Network Security](https://img.shields.io/badge/network%20security-%23000000.svg?style=for-the-badge&logo=security&logoColor=white)
+
 
 
 
