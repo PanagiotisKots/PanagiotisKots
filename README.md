@@ -65,7 +65,6 @@
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PanagiotisKots&theme=blueberry&hide_border=false)<br/>
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisKots&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PanagiotisKots&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 
