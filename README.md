@@ -85,8 +85,19 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=PanagiotisKots&icon=5&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/panagiotiskots1) 
+## 💰 You can help me by Donating
+
+If you find my work helpful, consider supporting me:
+
+<div align="center">
+  
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/panagiotiskots1)
+  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+  [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yourusername)
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/yourusername)
+
+</div>
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
