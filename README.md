@@ -201,11 +201,6 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 
 
 
-![Repository Statistics](https://github-proxy-8.betteryourself.net/apk/cards/repos-per-languages?username=kountourispanagiotis&themes=2037)
-
-
-
-
 
 
 <h2 align="center">⚡ STATS ⚡</h2>
