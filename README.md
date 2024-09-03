@@ -75,8 +75,15 @@
 ### ✍️ Random Dev Quote
  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PanagiotisKots&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+<div align="center">
+
+  ### 🔝 Top Contributed Repositories
+  <br/>
+
+  <img src="https://github-contributor-stats.vercel.app/api?username=PanagiotisKots&limit=5&theme=cobalt&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);"/>
+
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PanagiotisKots&icon=5&color=1)](https://visitcount.itsvg.in)
