@@ -106,6 +106,13 @@ If you find my work helpful, consider supporting me:
 
 
 
+## 🏆 Achievements
+
+![CTF Champion](https://img.shields.io/badge/CTF%20Champion-%234C9F2F.svg?style=for-the-badge&logo=award&logoColor=white)
+![Cybersecurity Medal](https://img.shields.io/badge/Cybersecurity%20Medal-%231DA1F2.svg?style=for-the-badge&logo=medal&logoColor=white)
+![Championship](https://img.shields.io/badge/Championship-%23F39C12.svg?style=for-the-badge&logo=trophy&logoColor=white)
+![Certificate](https://img.shields.io/badge/Certificate-%231D8CFF.svg?style=for-the-badge&logo=certificate&logoColor=white)
+
 
   
 # Make your Move ♟️
