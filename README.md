@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&lines=Welcome+to+my+Github+Profile+Page!" alt="Typing SVG" /></a> </p>
 
-![Banner Radius](https://github.com/PanagiotisKots/PanagiotisKots/blob/main/Screenshot%202024-09-03%20182746.jpg)
+![Banner Radius](tttt.jpg)
 
 
 
