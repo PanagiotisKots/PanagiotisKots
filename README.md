@@ -196,7 +196,8 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,java,c,cpp,python,go,php,rust,ts,nodejs,react,vue,sass,bootstrap,sql)](https://skillicons.dev)
+
 
 
 
