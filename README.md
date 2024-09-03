@@ -25,6 +25,8 @@
 ![AtCoder](https://img.shields.io/badge/AtCoder-%234D9BE5.svg?logo=atcoder&logoColor=white)
 ![TopCoder](https://img.shields.io/badge/TopCoder-%234B3C5D.svg?logo=topcoder&logoColor=white)
 
+<br><br><br><br>
+
 
 # 💻 Tech Stack:
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) 
