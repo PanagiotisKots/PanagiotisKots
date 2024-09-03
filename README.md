@@ -120,9 +120,7 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 
 ![Animated Chessboard](https://camo.githubusercontent.com/2e7521802f9a9801eb8247060489b2c4b47da1edb18505a38ff6846ec2b2e58d/68747470733a2f2f6f2e636861726c65732d63687269736d616e6e2e66722f74726967676572)
 
-<iframe src="https://giphy.com/embed/DBfYJqH5AokgM" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/news-group-anonymous-DBfYJqH5AokgM">via GIPHY</a></p>
-
-
+![Animated GIF](https://media.giphy.com/media/DBfYJqH5AokgM/giphy.gif)
 
 
 
