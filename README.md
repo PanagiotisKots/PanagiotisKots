@@ -186,6 +186,13 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 ---
 
 
+## 🛡️ Hacking & Penetration Testing Skills
+
+[![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-000000?style=for-the-badge&logo=security&logoColor=white)](https://www.owasp.org/)
+[![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.malwarebytes.com/)
+[![Exploit Development](https://img.shields.io/badge/Exploit%20Development-000000?style=for-the-badge&logo=security&logoColor=white)](https://www.exploit-db.com/)
+[![Network Security](https://img.shields.io/badge/Network%20Security-FF0000?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)
+[![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-003F6C?style=for-the-badge&logo=security&logoColor=white)](https://www.tenable.com/)
 
 
 
