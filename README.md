@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&lines=Welcome+to+my+Github+Profile+Page!" alt="Typing SVG" /></a> </p>
 
 <!-- HTML with inline CSS for resizing and border-radius -->
-<img src="https://github.com/YourUsername/YourRepo/raw/main/ttt.jpg" 
+<img src="ttt.jpg" 
      alt="Banner Radius" 
      style="width: 100%; max-width: 800px; border-radius: 20px; border: 2px solid #000;"
      />
