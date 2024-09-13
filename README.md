@@ -89,14 +89,14 @@
 </div>
 
 
-<br><br><br><br>
+<br>
 
 
 ## 🏆 GitHub Trophies
  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=PanagiotisKots&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 
-<br><br><br><br>
+<br>
 
 
 ### ✍️ Random Dev Quote
