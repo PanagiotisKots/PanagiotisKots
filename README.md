@@ -258,7 +258,7 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 
 <div align="center">
   <a href="https://github-readme-tech-stack.vercel.app">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=LANGUAGES%20%26%20TOOLS&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=5&theme=ayu&width=600&bg=%25230B0E14&titleColor=%231c9eff&line1=lua%2Clua%2Cauto%3Bpython%2Cpython%2Cauto%3Bc%2Cc%2Cauto%3Bcpp%2Ccpp%2Cauto%3B&line2=java%2Cjava%2Cauto%3Bgo%2Cgo%2Cauto%3Bhtml%2Chtml%2Cauto%3Bcss%2Ccss%2Cauto%3B&line3=sql%2Csql%2Cauto%3Brust%2Crust%2Cauto%3Btypescript%2Ctypescript%2Cauto%3B&line4=linux%2Clinux%2Cauto%3Basm%2Casm%2Cauto%3Bdocker%2Cdocker%2Cauto%3Bkubernetes%2Ckubernetes%2Cauto%3B&line5=git%2Cgit%2Cauto%3Bvscode%2Cvscode%2Cauto%3Bbash%2Cbash%2Cauto%3B" alt="GitHub Readme Tech Stack" />
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=LANGUAGES&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=3&theme=ayu&width=600&bg=%25230B0E14&titleColor=%231c9eff&line1=lua%2Clua%2Cauto%3Bpython%2Cpython%2Cauto%3Bc%2Cc%2Cauto%3Bcpp%2Ccpp%2Cauto%3B&line2=java%2Cjava%2Cauto%3Bgo%2Cgo%2Cauto%3Bhtml%2Chtml%2Cauto%3Bcss%2Ccss%2Cauto%3B&line3=sql%2Csql%2Cauto%3Brust%2Crust%2Cauto%3Btypescript%2Ctypescript%2Cauto%3B" alt="GitHub Readme Tech Stack" />
   </a>
 </div>
 
