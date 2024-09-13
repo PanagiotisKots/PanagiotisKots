@@ -2,18 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=+MyProfile+i;)](https://git.io/typing-svg)
 
-<br>
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=+i.firstName+%3D+%22Panagiotis%22;)](https://git.io/typing-svg)
 
-<br>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=++++i.lastName+%3D+%22Kotsorgios%22;)](https://git.io/typing-svg)
 
-<br>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=i.profession+%3D+%22a+backend+software+engineer%22;)](https://git.io/typing-svg)
 
-<br>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=i.origin+%3D+%22from+Greece%22;)](https://git.io/typing-svg)
 
