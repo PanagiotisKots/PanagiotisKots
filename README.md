@@ -35,7 +35,7 @@
 ![AtCoder](https://img.shields.io/badge/AtCoder-%234D9BE5.svg?logo=atcoder&logoColor=white)
 ![TopCoder](https://img.shields.io/badge/TopCoder-%234B3C5D.svg?logo=topcoder&logoColor=white)
 
-<br><br><br><br>
+<br>
 
 
 # 💻 Tech Stack 💻
