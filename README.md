@@ -102,12 +102,12 @@
 ### ✍️ Random Dev Quote
  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
-<br><br><br><br>
+<br>
 
 ### 🔝 Top Contributed Repositories
 <img src="https://github-contributor-stats.vercel.app/api?username=PanagiotisKots&limit=5&theme=cobalt&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);"/>
 
-<br><br><br><br>
+<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PanagiotisKots&icon=5&color=1)](https://visitcount.itsvg.in)
@@ -125,7 +125,7 @@ If you find my work helpful, consider supporting me:
 
 
 
-<br><br><br><br>
+<br>
 
 ## 🏆 Achievements & Certifications
 
@@ -143,7 +143,7 @@ If you find my work helpful, consider supporting me:
 ![Certificate](https://img.shields.io/badge/Certificate-%231D8CFF.svg?style=for-the-badge&logo=certificate&logoColor=white)
 
 
-<br><br><br><br>
+<br>
 
   
 # Make your Move ♟️
@@ -232,7 +232,7 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 ---
 
 
-<br><br><br><br>
+<br>
 
 
 
@@ -251,14 +251,14 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 ![Animated GIF](https://media.giphy.com/media/DBfYJqH5AokgM/giphy.gif)
 
 
-<br><br><br><br>
+<br>
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,java,c,cpp,python,go,php,rust,ts,nodejs,react,vue,sass,bootstrap,sql)](https://skillicons.dev)
 
 
 
-<br><br><br><br>
+<br>
 
 
 <div align="center">
@@ -268,7 +268,7 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 </div>
 
 
-<br><br><br><br>
+<br>
 
 
 
