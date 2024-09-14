@@ -281,7 +281,7 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 
 ## 💰 You can help me by Donating
 
-</div>
+
 
 
 If you find my work helpful, consider supporting me:
@@ -294,7 +294,7 @@ If you find my work helpful, consider supporting me:
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/yourusername)
 
 
-
+</div>
 
 
 <p align="center">
