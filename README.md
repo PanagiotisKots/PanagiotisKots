@@ -153,12 +153,6 @@ If you find my work helpful, consider supporting me:
 
 <br>
 
-## 🏆 Achievements & Certifications
-
-⚠️ Coming soon !!!
-
-<br>
-
   
 # Make your Move ♟️
 
