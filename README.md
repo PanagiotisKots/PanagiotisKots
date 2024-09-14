@@ -139,7 +139,12 @@
 
 <br>
 
+<div align = "center">
+
+  
 ## 🛡️ Hacking & Penetration Testing Skills
+
+</div>
 
 [![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-000000?style=for-the-badge&logo=security&logoColor=white)](https://www.owasp.org/)
 [![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.malwarebytes.com/)
