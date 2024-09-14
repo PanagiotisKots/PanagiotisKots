@@ -167,7 +167,8 @@
 <div align = "center">
 
   
-![Animated GIF](https://media.giphy.com/media/DBfYJqH5AokgM/giphy.gif)
+<img src="https://media.giphy.com/media/DBfYJqH5AokgM/giphy.gif" width="800px" alt="Animated GIF" />
+
 
 </div>
 
