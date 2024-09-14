@@ -178,10 +178,6 @@
 # ♟️ High Level Online Chess Game ♟️
 
 <br>
-
-# Make Your Move 
-<br>
-  
 This is an open chess tournament where ANYONE can play. That's the fun part.  
 It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
 
