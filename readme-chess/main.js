@@ -13,11 +13,10 @@ const axios = require('axios');
 
     const data = res.data;
 
-    const readmeTextContents = data.split('<!-- BEGIN CHESS BOARD -->')[1].split('<!-- END CHESS BOARD -->')[0].replaceAll(`"img`, `"https://raw.githubusercontent.com/milaabl/readme-chess/master/img`);
-
+    // Update the image path from the old user to the new one
+    const readmeTextContents = data.split('<!-- BEGIN CHESS BOARD -->')[1].split('<!-- END CHESS BOARD -->')[0].replaceAll(`"img`, `"https://raw.githubusercontent.com/PanagiotisKots/readme-chess/master/img`);
 
     fs.writeFileSync('./file.md', readmeTextContents);
-
 
     await convert2img({
         mdFile: "./file.md",
