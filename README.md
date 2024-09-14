@@ -99,8 +99,20 @@
 <br>
 
 
-### ✍️ Custom Quote
-![Quote](https://dummyimage.com/600x100/007bff/fff&text=Amateurs+hack+systems;+professionals+hack+people+-+The+Creator)
+<svg width="600" height="150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" rx="15" ry="15" fill="#007bff"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Verdana" font-size="18" fill="white">
+    Amateurs hack systems;
+  </text>
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="Verdana" font-size="18" fill="white">
+    professionals hack people
+  </text>
+  <text x="95%" y="95%" dominant-baseline="middle" text-anchor="end" font-family="Verdana" font-size="12" fill="white">
+    - The Creator
+  </text>
+  <animate attributeName="opacity" values="0;1;0" dur="6s" repeatCount="indefinite"/>
+</svg>
+
 
 
 
