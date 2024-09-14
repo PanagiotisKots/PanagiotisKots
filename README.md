@@ -244,7 +244,6 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 
 
 
-
 ## 🛡️ Hacking & Penetration Testing Skills
 
 [![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-000000?style=for-the-badge&logo=security&logoColor=white)](https://www.owasp.org/)
@@ -252,12 +251,24 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 [![Exploit Development](https://img.shields.io/badge/Exploit%20Development-000000?style=for-the-badge&logo=security&logoColor=white)](https://www.exploit-db.com/)
 [![Network Security](https://img.shields.io/badge/Network%20Security-FF0000?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)
 [![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-003F6C?style=for-the-badge&logo=security&logoColor=white)](https://www.tenable.com/)
+[![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-FF69B4?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hex-rays.com/products/ida/)
+[![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-006400?style=for-the-badge&logo=autopsy&logoColor=white)](https://www.sleuthkit.org/autopsy/)
+[![Cryptography](https://img.shields.io/badge/Cryptography-800080?style=for-the-badge&logo=keybase&logoColor=white)](https://en.wikipedia.org/wiki/Cryptography)
+[![Web Application Security](https://img.shields.io/badge/Web%20Application%20Security-00008B?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/)
+[![Incident Response](https://img.shields.io/badge/Incident%20Response-DC143C?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/security/services/incident-response)
+[![Social Engineering](https://img.shields.io/badge/Social%20Engineering-FF8C00?style=for-the-badge&logo=phishing&logoColor=white)](https://www.social-engineer.com/)
+[![Red Teaming](https://img.shields.io/badge/Red%20Teaming-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.com/)
+[![SIEM](https://img.shields.io/badge/SIEM-4682B4?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
+[![Cloud Security](https://img.shields.io/badge/Cloud%20Security-00BFFF?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/security/)
+[![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-2E8B57?style=for-the-badge&logo=cybereason&logoColor=white)](https://www.cybereason.com/)
+[![Firewall Management](https://img.shields.io/badge/Firewall%20Management-B22222?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.fortinet.com/)
 
 
+<div aligh = "center">
 
-
+  
 ![Animated GIF](https://media.giphy.com/media/DBfYJqH5AokgM/giphy.gif)
-
+</div>
 
 <br>
 
