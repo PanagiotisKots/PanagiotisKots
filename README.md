@@ -99,8 +99,9 @@
 <br>
 
 
-### ✍️ Random Dev Quote
- ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+### ✍️ Custom Quote
+![Quote](https://dummyimage.com/600x100/007bff/fff&text=Amateurs+hack+systems;+professionals+hack+people+-+The+Creator)
+
 
 
 ### 🔝 Top Contributed Repositories
