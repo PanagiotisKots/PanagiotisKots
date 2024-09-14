@@ -108,7 +108,12 @@
 
 </div>
 
+<div align = "center">
+
+  
 <img src="https://github-contributor-stats.vercel.app/api?username=PanagiotisKots&limit=5&theme=cobalt&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);"/>
+
+</div>
 
 <br>
 
