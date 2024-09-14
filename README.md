@@ -110,7 +110,7 @@
 
 <div align = "center">
   
-### 🔝 Top Contributed Repositories
+## 🔝 Top Contributed Repositories
 
 </div>
 
