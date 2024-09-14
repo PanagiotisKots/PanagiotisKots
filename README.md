@@ -79,7 +79,13 @@
 
 <br>
 
+<div align = "center">
+
+  
 # 📊 GitHub Stats:
+
+</div>
+
 <div align="center">
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PanagiotisKots&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
