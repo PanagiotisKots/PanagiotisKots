@@ -276,9 +276,13 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 
 <br>
 
+<div align = "center">
 
 
 ## 💰 You can help me by Donating
+
+</div>
+
 
 If you find my work helpful, consider supporting me:
 
