@@ -269,7 +269,6 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 <!-- END TOP MOVES -->
 </details>
 
----
 
 
 <br>
