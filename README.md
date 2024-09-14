@@ -44,12 +44,12 @@
 <br>
 
 ## 📲 Coding Platforms 📲
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23F9C9D2.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Panagiotis_Kotsorgios/) 
+[![HackerRank](https://img.shields.io/badge/HackerRank-%234C3F91.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/pkotsorgios654) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-%230A1929.svg?logo=codeforces&logoColor=white)](https://codeforces.com/) 
+[![AtCoder](https://img.shields.io/badge/AtCoder-%234D9BE5.svg?logo=atcoder&logoColor=white)](https://www.codechef.com/users/pkotsorgios654) 
+[![TopCoder](https://img.shields.io/badge/TopCoder-%234B3C5D.svg?logo=topcoder&logoColor=white)](https://www.codewars.com/users/Panagiotis_Kotsorgios)
 
-![LeetCode](https://img.shields.io/badge/LeetCode-%23F9C9D2.svg?logo=leetcode&logoColor=black)
-![HackerRank](https://img.shields.io/badge/HackerRank-%234C3F91.svg?logo=hackerrank&logoColor=white)
-![Codeforces](https://img.shields.io/badge/Codeforces-%230A1929.svg?logo=codeforces&logoColor=white)
-![AtCoder](https://img.shields.io/badge/AtCoder-%234D9BE5.svg?logo=atcoder&logoColor=white)
-![TopCoder](https://img.shields.io/badge/TopCoder-%234B3C5D.svg?logo=topcoder&logoColor=white)
 
 <br>
 
