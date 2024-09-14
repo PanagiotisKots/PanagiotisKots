@@ -293,24 +293,7 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 
 <br>
 
-<div align = "center">
 
-
-## 💰 You can help me by Donating
-
-
-
-
-If you find my work helpful, consider supporting me:
-
-
-  
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/panagiotiskots1)
-  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
-
-
-
-</div>
 
 
 <p align="center">
