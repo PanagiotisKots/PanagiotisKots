@@ -268,6 +268,7 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 
   
 ![Animated GIF](https://media.giphy.com/media/DBfYJqH5AokgM/giphy.gif)
+
 </div>
 
 <br>
