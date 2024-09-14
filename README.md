@@ -264,7 +264,7 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 [![Firewall Management](https://img.shields.io/badge/Firewall%20Management-B22222?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.fortinet.com/)
 
 
-<div aligh = "center">
+<div align = "center">
 
   
 ![Animated GIF](https://media.giphy.com/media/DBfYJqH5AokgM/giphy.gif)
