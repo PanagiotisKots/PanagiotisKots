@@ -89,7 +89,11 @@
 <div align="center">
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PanagiotisKots&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  <br>
+  
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PanagiotisKots&theme=blueberry&hide_border=false)<br/>
+
+  <br>
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisKots&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
