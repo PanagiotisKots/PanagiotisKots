@@ -3,7 +3,7 @@ const fs = require("fs");
 const axios = require('axios');
 
 (async () => {
-    const res = await axios.get("https://raw.githubusercontent.com/milaabl/readme-chess/master/README.md");
+   const res = await axios.get("https://raw.githubusercontent.com/PanagiotisKots/readme-chess/master/README.md");
 
     fs.writeFileSync("./node_modules/mdimg/template/css/github.css", `@import "https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css";
     @import "https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown-light.min.css";
