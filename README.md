@@ -211,11 +211,6 @@
 
 
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
-</p>
 
 
 
